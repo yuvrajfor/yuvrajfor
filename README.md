@@ -1,4 +1,3 @@
-Hi, I'm **yuvrajfor**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
   <picture>
@@ -34,8 +33,6 @@ Hi, I'm **yuvrajfor**. This README shares what I'm building, the tools I use, an
     <img src="https://www.gitskins.com/api/section/projects?username=yuvrajfor&theme=github-dark" alt="yuvrajfor projects section" />
   </picture>
 </p>
-
-X: @Yuvrajfor · LinkedIn: in/yuvrajfor
 
 <p align="center">
   <picture>
