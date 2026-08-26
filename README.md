@@ -1,8 +1,3 @@
-# yuvrajfor
-
-> Memorable developer positioning.
-
-## Header
 
 Hi, I'm **yuvrajfor**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
