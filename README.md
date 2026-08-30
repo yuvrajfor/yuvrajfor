@@ -1,4 +1,4 @@
-# Y U V R A J  S I N G H
+# Y U V R A J      S I N G H
 
 Hi, I'm **YUVRAJ SINGH**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
